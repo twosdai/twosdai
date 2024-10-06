@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @twosdai
 Hacker at heart, Software Engineer
 
-Currently building a Cloud based billing system. https://paigo.tech   
 Feel free to send me cool projects or code you like: daniel.wasserlauf@paigo.tech
 
 
