@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @twosdai
 Hacker at heart, Software Engineer
 
-Feel free to send me cool projects or code you like: daniel.wasserlauf@trychamp.co
+Feel free to send me cool projects or code you like: daniel.wasserlauf@gmail.com
 
 
 <!---
